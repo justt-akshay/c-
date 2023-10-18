@@ -1,0 +1,40 @@
+Object-Oriented Programming (OOP) is a programming paradigm that organizes software design around objects, which can represent real-world entities and their interactions. OOP is based on several fundamental concepts and principles. Here are some of the key OOP concepts:
+
+Classes and Objects:
+
+Class: A blueprint or template for creating objects. It defines the attributes (data members) and methods (functions) that the objects of the class will have.
+Object: An instance of a class. It represents a real-world entity and can interact with other objects.
+Encapsulation:
+
+Encapsulation refers to the bundling of data (attributes) and methods that operate on that data into a single unit (class). It restricts direct access to some of an object's components and prevents the accidental modification of data.
+Abstraction:
+
+Abstraction is the process of simplifying complex reality by modeling classes based on essential properties and behaviors. It focuses on what an object does rather than how it does it.
+Inheritance:
+
+Inheritance is a mechanism that allows one class (the child or subclass) to inherit properties and behaviors from another class (the parent or superclass). It promotes code reuse and establishes an "is-a" relationship.
+Polymorphism:
+
+Polymorphism allows objects of different classes to be treated as objects of a common superclass. It enables flexibility and dynamic behavior, as objects can respond differently to the same method call based on their specific implementations.
+Message Passing:
+
+Objects communicate by sending and receiving messages. Messages trigger methods to execute, allowing objects to interact with each other.
+Association:
+
+Association represents a relationship between two or more objects. It can be a one-to-one, one-to-many, or many-to-many relationship. It is a fundamental concept for modeling the relationships between objects.
+Composition:
+
+Composition is a strong form of association where one class contains objects of another class as part of its state. It represents a "has-a" relationship, and the lifetime of the contained object is managed by the container.
+Aggregation:
+
+Aggregation is a weaker form of association, often representing a "part-of" relationship. In aggregation, objects are associated, but they can exist independently.
+Overriding:
+
+Inheritance allows a subclass to provide a specific implementation of a method that is already defined in its superclass. This process is known as method overriding.
+Encapsulation and Information Hiding:
+
+Encapsulation combines data and methods into a single unit while protecting the internal state of an object from unauthorized access. This concept promotes information hiding, which restricts access to certain details of an object.
+Single Responsibility Principle (SRP):
+
+Each class or module should have only one reason to change. This principle emphasizes the importance of designing classes that have a single, well-defined responsibility.
+OOP promotes modularity, reusability, and ease of maintenance in software development by modeling the real-world entities as objects and their interactions. It enhances code organization and readability by providing a structured way to represent and manage complex systems.
